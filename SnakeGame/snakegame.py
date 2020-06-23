@@ -3,8 +3,6 @@
 Created on Sat Jun 20 02:29:46 2020
 
 Title : Snake Game
-	
-Contest: Self
 
 @author: kQueen_Etiquette
 """
