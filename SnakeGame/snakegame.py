@@ -39,7 +39,7 @@ clock = pygame.time.Clock()
 font_style = pygame.font.SysFont('comicsansms', 30)
 score_style = pygame.font.SysFont('comicsanms', 35)
 
-apple = pygame.image.load('D:\\apple.png')
+apple = pygame.image.load('D:\\Python\\SnakeGameapple.png')
 
 def our_snake(snake_block, snake_list):
     for x in snake_list:
